@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 0;
+    PC Bank Last Modified High = 0;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 1904037759;
+    Bank Last Revised High = 30057122;
+
+    Wave
+    {
+        Name = Ditty;
+        File = Sounds\Ditty.wav;
+        Build Settings Last Modified Low = 1786068254;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 1639572;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 72954368;
+            Last Modified High = 30057117;
+        }
+    }
+
+    Wave
+    {
+        Name = Piratedeath;
+        File = Sounds\Piratedeath.wav;
+        Build Settings Last Modified Low = 1786537007;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 157696;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3287921664;
+            Last Modified High = 30057116;
+        }
+    }
+
+    Wave
+    {
+        Name = Pirateswing;
+        File = Sounds\Pirateswing.wav;
+        Build Settings Last Modified Low = 1787005760;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 63488;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2283019776;
+            Last Modified High = 30057119;
+        }
+    }
+
+    Wave
+    {
+        Name = PirateYarr1;
+        File = Sounds\PirateYarr1.wav;
+        Build Settings Last Modified Low = 1787630764;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 83456;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2647921664;
+            Last Modified High = 30057116;
+        }
+    }
+
+    Wave
+    {
+        Name = death;
+        File = Sounds\death.wav;
+        Build Settings Last Modified Low = 1788099517;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 233472;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1767921664;
+            Last Modified High = 30057116;
+        }
+    }
+
+    Wave
+    {
+        Name = jump1;
+        File = Sounds\jump1.wav;
+        Build Settings Last Modified Low = 1788724521;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 22528;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 887921664;
+            Last Modified High = 30057116;
+        }
+    }
+
+    Wave
+    {
+        Name = jump2;
+        File = Sounds\jump2.wav;
+        Build Settings Last Modified Low = 1789349525;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 30720;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1067921664;
+            Last Modified High = 30057116;
+        }
+    }
+
+    Wave
+    {
+        Name = jump3;
+        File = Sounds\jump3.wav;
+        Build Settings Last Modified Low = 1789974529;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 23552;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1167921664;
+            Last Modified High = 30057116;
+        }
+    }
+
+    Wave
+    {
+        Name = jump4;
+        File = Sounds\jump4.wav;
+        Build Settings Last Modified Low = 1790599533;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 31232;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1427921664;
+            Last Modified High = 30057116;
+        }
+    }
+
+    Wave
+    {
+        Name = land;
+        File = Sounds\land.wav;
+        Build Settings Last Modified Low = 1791224537;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 40960;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1607921664;
+            Last Modified High = 30057116;
+        }
+    }
+
+    Wave
+    {
+        Name = sploosh;
+        File = Sounds\sploosh.wav;
+        Build Settings Last Modified Low = 1792005792;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 208896;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1927921664;
+            Last Modified High = 30057116;
+        }
+    }
+
+    Wave
+    {
+        Name = success1;
+        File = Sounds\success1.wav;
+        Build Settings Last Modified Low = 1792630796;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 143360;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2067921664;
+            Last Modified High = 30057116;
+        }
+    }
+
+    Wave
+    {
+        Name = success2;
+        File = Sounds\success2.wav;
+        Build Settings Last Modified Low = 1793412051;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 114688;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2207921664;
+            Last Modified High = 30057116;
+        }
+    }
+
+    Wave
+    {
+        Name = PirateYarr2;
+        File = Sounds\PirateYarr2.wav;
+        Build Settings Last Modified Low = 1794193306;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 134656;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3107921664;
+            Last Modified High = 30057116;
+        }
+    }
+
+    Wave
+    {
+        Name = Canondeath;
+        File = Sounds\Canondeath.wav;
+        Build Settings Last Modified Low = 1794818310;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 57344;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3827921664;
+            Last Modified High = 30057116;
+        }
+    }
+
+    Wave
+    {
+        Name = CanonFire;
+        File = Sounds\CanonFire.wav;
+        Build Settings Last Modified Low = 1795599565;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 120832;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3627921664;
+            Last Modified High = 30057116;
+        }
+    }
+
+    Wave
+    {
+        Name = CanonSizzle;
+        File = Sounds\CanonSizzle.wav;
+        Build Settings Last Modified Low = 1796380820;
+        Build Settings Last Modified High = 30057122;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 1024;
+            Play Region Length = 258048;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3747921664;
+            Last Modified High = 30057116;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

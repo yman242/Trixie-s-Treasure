@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>FillerRight.bmp</Source>
+      <Name>FillerRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb</Output>
+      <Time>2010-01-30T10:43:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FillerUp.bmp</Source>
+      <Name>FillerUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb</Output>
+      <Time>2010-01-30T10:44:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FillerRight2.bmp</Source>
+      <Name>FillerRight2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb</Output>
+      <Time>2010-01-30T12:42:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FillerRight3.bmp</Source>
+      <Name>FillerRight3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb</Output>
+      <Time>2010-01-30T12:43:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FillerStanding.bmp</Source>
+      <Name>FillerStanding</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb</Output>
+      <Time>2010-01-30T13:05:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FillerJump1.bmp</Source>
+      <Name>FillerJump1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb</Output>
+      <Time>2010-01-30T14:49:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>FillerRight22.bmp</Source>
+      <Name>FillerRight22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb</Output>
+      <Time>2010-01-30T16:26:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2010-01-30T16:22:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelOne.png</Source>
+      <Name>LevelOne</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb</Output>
+      <Time>2010-01-30T20:43:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelFive.png</Source>
+      <Name>LevelFive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb</Output>
+      <Time>2010-01-30T21:06:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelFour.png</Source>
+      <Name>LevelFour</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb</Output>
+      <Time>2010-01-30T21:05:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelThree.png</Source>
+      <Name>LevelThree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb</Output>
+      <Time>2010-01-30T21:05:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelTwo.png</Source>
+      <Name>LevelTwo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb</Output>
+      <Time>2010-01-30T21:04:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Stand.png</Source>
+      <Name>Stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb</Output>
+      <Time>2010-01-31T09:35:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Run\Run10.png</Source>
+      <Name>Run\Run10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb</Output>
+      <Time>2010-01-31T09:41:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Run\Run11.png</Source>
+      <Name>Run\Run11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb</Output>
+      <Time>2010-01-31T09:40:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Run\Run2.png</Source>
+      <Name>Run\Run2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb</Output>
+      <Time>2010-01-31T09:40:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Run\Run3.png</Source>
+      <Name>Run\Run3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb</Output>
+      <Time>2010-01-31T09:40:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Run\Run4.png</Source>
+      <Name>Run\Run4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb</Output>
+      <Time>2010-01-31T09:40:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Run\Run5.png</Source>
+      <Name>Run\Run5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb</Output>
+      <Time>2010-01-31T09:41:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Run\Run6.png</Source>
+      <Name>Run\Run6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb</Output>
+      <Time>2010-01-31T09:41:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Run\Run7.png</Source>
+      <Name>Run\Run7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb</Output>
+      <Time>2010-01-31T09:41:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Run\Run8.png</Source>
+      <Name>Run\Run8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb</Output>
+      <Time>2010-01-31T09:41:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Run\Run9.png</Source>
+      <Name>Run\Run9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb</Output>
+      <Time>2010-01-31T09:41:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Jump\jump2.png</Source>
+      <Name>Jump\jump2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb</Output>
+      <Time>2010-02-04T13:57:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Jump\jump3.png</Source>
+      <Name>Jump\jump3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb</Output>
+      <Time>2010-02-04T13:57:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Jump\jump4.png</Source>
+      <Name>Jump\jump4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb</Output>
+      <Time>2010-02-04T13:57:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Jump\jump5.png</Source>
+      <Name>Jump\jump5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb</Output>
+      <Time>2010-02-04T13:58:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Jump\jump6.png</Source>
+      <Name>Jump\jump6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb</Output>
+      <Time>2010-02-04T13:58:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Jump\jump7.png</Source>
+      <Name>Jump\jump7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb</Output>
+      <Time>2010-02-04T15:16:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BlackFront.png</Source>
+      <Name>BlackFront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\BlackFront.xnb</Output>
+      <Time>2010-01-31T13:54:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelZero.png</Source>
+      <Name>LevelZero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\LevelZero.xnb</Output>
+      <Time>2010-01-31T15:00:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>hint.png</Source>
+      <Name>hint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\hint.xnb</Output>
+      <Time>2010-01-31T14:35:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Pirate\run2_v3.png</Source>
+      <Name>Pirate\run2_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\run2_v3.xnb</Output>
+      <Time>2010-03-20T14:45:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pirate\run3_v3.png</Source>
+      <Name>Pirate\run3_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\run3_v3.xnb</Output>
+      <Time>2010-03-20T14:45:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pirate\run4_v3.png</Source>
+      <Name>Pirate\run4_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\run4_v3.xnb</Output>
+      <Time>2010-03-20T14:45:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pirate\run5_v3.png</Source>
+      <Name>Pirate\run5_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\run5_v3.xnb</Output>
+      <Time>2010-03-20T14:45:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pirate\run6_v3.png</Source>
+      <Name>Pirate\run6_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\run6_v3.xnb</Output>
+      <Time>2010-03-20T14:45:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Pirate\standing_v3.png</Source>
+      <Name>Pirate\standing_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\standing_v3.xnb</Output>
+      <Time>2010-01-31T15:13:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Pirate\swing1_v3.png</Source>
+      <Name>Pirate\swing1_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\swing1_v3.xnb</Output>
+      <Time>2010-01-31T15:13:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Pirate\swing2_v3.png</Source>
+      <Name>Pirate\swing2_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\swing2_v3.xnb</Output>
+      <Time>2010-01-31T15:13:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Pirate\swing3_v3.png</Source>
+      <Name>Pirate\swing3_v3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\swing3_v3.xnb</Output>
+      <Time>2010-03-20T14:45:28-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T11:13:52-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T11:13:52-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-03-26T12:54:36.9489241-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

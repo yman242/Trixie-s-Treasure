@@ -1,0 +1,37 @@
+F:\TreasurePlayer\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.6\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.8\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.9\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.93\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.94\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.97\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.97\TreasurePlayer\Content\obj\x86\Debug\Music.xml
+F:\Tresure Collision V.98\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.98\TreasurePlayer\Content\obj\x86\Debug\Music.xml
+F:\Tresure Collision V.99\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.99\TreasurePlayer\Content\obj\x86\Debug\Music.xml
+E:\Tresure Collision V.99\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Tresure Collision V.99\TreasurePlayer\Content\obj\x86\Debug\Music.xml
+E:\Tresure Collision V.991\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Tresure Collision V.991\TreasurePlayer\Content\obj\x86\Debug\Music.xml
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\Content\obj\x86\Debug\Music.xml
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\Content\obj\x86\Debug\Music.xml
+E:\Tresure Collision V.993\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Tresure Collision V.993\TreasurePlayer\Content\obj\x86\Debug\Music.xml
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\Content\obj\x86\Debug\Music.xml
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\Content\obj\x86\Debug\Music.xml
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\Content\obj\x86\Debug\Music.xml
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\Content\obj\x86\Debug\Music.xml
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\Content\obj\x86\Debug\Music.xml

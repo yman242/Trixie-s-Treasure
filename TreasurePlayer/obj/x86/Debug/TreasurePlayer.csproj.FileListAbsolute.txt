@@ -1,0 +1,1281 @@
+F:\TreasurePlayer\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+F:\TreasurePlayer\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+F:\TreasurePlayer\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+F:\TreasurePlayer\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+F:\TreasurePlayer\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\TreasurePlayer\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\TreasurePlayer\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+F:\TreasurePlayer\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+F:\TreasurePlayer\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+F:\TreasurePlayer\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+F:\TreasurePlayer\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+F:\TreasurePlayer\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+F:\TreasurePlayer\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+F:\TreasurePlayer\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+F:\TreasurePlayer\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+F:\Tresure Collision\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Tresure Collision\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+F:\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+F:\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+F:\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+F:\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+F:\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+F:\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+F:\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+F:\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+F:\Tresure Collision\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+F:\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+F:\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+F:\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.5\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.6\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.6\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.6\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Tresure Collision V.6\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.6\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.7\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.8\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.8\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.8\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Tresure Collision V.8\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.8\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.9\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.9\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.9\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Tresure Collision V.9\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.9\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+C:\Documents and Settings\b.anderson\Desktop\Tresure Collision V.92\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.93\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.93\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.93\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Tresure Collision V.93\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.93\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.94\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.94\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Tresure Collision V.94\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.94\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.94\TreasurePlayer\bin\x86\Debug\Content\BlackFront.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\BlackFront.xnb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Music.xgs
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Wave Bank.xwb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Sound Bank.xsb
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.97\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.97\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.97\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Tresure Collision V.97\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.97\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\BlackFront.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\LevelZero.xnb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Music.xgs
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Wave Bank.xwb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Sound Bank.xsb
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\Content\LevelZero.png
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.98\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.98\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.98\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Tresure Collision V.98\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.98\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\BlackFront.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\LevelZero.xnb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Music.xgs
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Wave Bank.xwb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Sound Bank.xsb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\LevelZero.png
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.99\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tresure Collision V.99\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Tresure Collision V.99\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+F:\Tresure Collision V.99\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+F:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\hint.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\BlackFront.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\LevelZero.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\hint.xnb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Music.xgs
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Wave Bank.xwb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Sound Bank.xsb
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\Content\LevelZero.png
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+E:\Tresure Collision V.99\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+E:\Tresure Collision V.99\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Tresure Collision V.99\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Tresure Collision V.99\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+E:\Tresure Collision V.99\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\BlackFront.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\LevelZero.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\hint.xnb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Music.xgs
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Wave Bank.xwb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Sound Bank.xsb
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\Content\LevelZero.png
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+E:\Tresure Collision V.991\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+E:\Tresure Collision V.991\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Tresure Collision V.991\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Tresure Collision V.991\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+E:\Tresure Collision V.991\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\BlackFront.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\LevelZero.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\hint.xnb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Music.xgs
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\Content\LevelZero.png
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+C:\Users\b.anderson\Desktop\Tresure Collision V.992\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\BlackFront.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\LevelZero.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\hint.xnb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Music.xgs
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Wave Bank.xwb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Sound Bank.xsb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\LevelZero.png
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+Q:\ELEET\Tresure Collision V.993\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\BlackFront.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\LevelZero.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\hint.xnb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Music.xgs
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Wave Bank.xwb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Sound Bank.xsb
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\Content\LevelZero.png
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+E:\Tresure Collision V.993\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+E:\Tresure Collision V.993\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Tresure Collision V.993\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Tresure Collision V.993\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+E:\Tresure Collision V.993\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\BlackFront.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\LevelZero.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\hint.xnb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Music.xgs
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Wave Bank.xwb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Sound Bank.xsb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\LevelZero.png
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+Q:\ELEET\Tresure Collision V.999\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\BlackFront.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\LevelZero.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\hint.xnb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Music.xgs
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\Content\LevelZero.png
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+C:\Users\d.wilson\Desktop\Tresure Collision V.999\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\BlackFront.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\LevelZero.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\hint.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Pirate\run2_v3.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Pirate\run3_v3.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Pirate\run4_v3.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Pirate\run5_v3.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Pirate\run6_v3.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Pirate\standing_v3.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Pirate\swing1_v3.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Pirate\swing2_v3.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Pirate\swing3_v3.xnb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Music.xgs
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\Content\LevelZero.png
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+C:\Documents and Settings\d.wilson\Desktop\Tresure Collision V.9999\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\BlackFront.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\LevelZero.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\hint.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Pirate\run2_v3.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Pirate\run3_v3.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Pirate\run4_v3.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Pirate\run5_v3.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Pirate\run6_v3.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Pirate\standing_v3.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Pirate\swing1_v3.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Pirate\swing2_v3.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Pirate\swing3_v3.xnb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Music.xgs
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Wave Bank.xwb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Sound Bank.xsb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\Content\LevelZero.png
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+C:\USB\Tresure Collision V 1.0\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\FillerRight.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\FillerUp.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\FillerRight2.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\FillerRight3.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\FillerStanding.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\FillerJump1.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\FillerRight22.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Background.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\LevelOne.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\LevelFive.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\LevelFour.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\LevelThree.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\LevelTwo.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Stand.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\BlackFront.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\LevelZero.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\hint.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\run2_v3.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\run3_v3.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\run4_v3.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\run5_v3.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\run6_v3.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\standing_v3.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\swing1_v3.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\swing2_v3.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Pirate\swing3_v3.xnb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Music.xgs
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Stand.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run10.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run11.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run2.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run3.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run4.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run5.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run6.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run7.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run8.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Run\Run9.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump2.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump3.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump4.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump5.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump6.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\Jump\jump7.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\Content\LevelZero.png
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\TreasurePlayer.exe
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\bin\x86\Debug\TreasurePlayer.pdb
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\obj\x86\Debug\TreasurePlayer.exe
+C:\Users\Dylan\Desktop\Jalloo\Trixie's Treasure\TreasurePlayer\obj\x86\Debug\TreasurePlayer.pdb
